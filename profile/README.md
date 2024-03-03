@@ -19,6 +19,8 @@ Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Comma
   - Project Tutorial: [Run a Website Locally with HTML](https://www.codedex.io/projects/run-a-website-locally-with-html)
   - Project Tutorial: [Build an Album Finder with Spotify API](https://www.codedex.io/projects/build-an-album-finder-with-spotify-api) 
 
+<br/>
+<br/>
 
 ## Our Team 🫂
 <img src="https://github.com/codedex-io/.github/assets/65576812/a8c9acf2-fd8e-485d-a3c3-4fd2fccaed4a" width="50px">
