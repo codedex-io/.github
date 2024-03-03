@@ -13,7 +13,7 @@ Welcome to Codédex's GitHub! ⚡ Codédex is the brand new way to learn to code
 Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Command Line, earn experience points (XP) to unlock new regions, and collect all the badges at your own pace. 👩🏾‍💻👨🏻‍💻👩🏼‍💻
 
 <br /><br />
-<strong>Start your coding adventure! ⋆˙⟡ <strong />
+<strong>Start your coding adventure ⋆˙⟡ <strong />
 </p>
 
 
