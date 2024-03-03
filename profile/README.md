@@ -19,7 +19,7 @@ Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Comma
 
 -----
 
-### Ongoing
+### What's New?
 
   - GitHub Education: [Sign up for 6 months of FREE Codédex Club](https://www.codedex.io/github-students) with a `.edu` email
   - Project Tutorial: [Run a Website Locally with HTML](https://www.codedex.io/projects/run-a-website-locally-with-html)
