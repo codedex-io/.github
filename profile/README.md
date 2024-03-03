@@ -27,7 +27,7 @@ Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Comma
 
 <br/>
 
-## Our Team 🤗
+## Our Team 🫂
 <img src="https://github.com/codedex-io/.github/assets/65576812/a8c9acf2-fd8e-485d-a3c3-4fd2fccaed4a" width="50px">
 <img src="https://github.com/codedex-io/.github/assets/65576812/ccb47bcb-3e3c-4a7f-bc0e-2f843f87dbe7" width="50px">
 <img src="https://github.com/codedex-io/.github/assets/65576812/90a19cff-1693-457e-8ee2-52a85322e633" width="50px">
