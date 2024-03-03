@@ -1,8 +1,11 @@
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codedex-io/.github/assets/65576812/6dd61b76-4149-4515-bb4c-495ed30ba712" width="400px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codedex-io/.github/assets/65576812/bad9de45-9136-4569-a2cd-b28365c32d51" width="400px">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/codedex-io/.github/assets/65576812/6dd61b76-4149-4515-bb4c-495ed30ba712" width="400px">
   <img alt="Codédex Logo" src="https://github.com/codedex-io/.github/assets/65576812/bad9de45-9136-4569-a2cd-b28365c32d51" width="400px">
 </picture>
+
+
  
 </p>
 <h1>Codédex on GitHub</h1>
