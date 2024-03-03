@@ -7,9 +7,9 @@
 
  
 </p>
-<h1>Welcome to Codédex's GitHub ⚡</h1>
+<h1>Welcome</h1>
   <img align=right src="https://github.com/codedex-io/.github/assets/65576812/c52c79df-d10d-412e-b0ef-ec0b969d2a5d" width="250px">
-Codédex is the brand new way to learn to code for Gen Z.
+Welcome to Codédex's GitHub! ⚡ Codédex is the brand new way to learn to code for Gen Z.
 Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Command Line, earn experience points (XP) to unlock new regions, and collect all the badges at your own pace. 👩🏾‍💻👨🏻‍💻👩🏼‍💻
 
 <br /><br />
