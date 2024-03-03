@@ -15,7 +15,7 @@ Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Comma
 
 ### Ongoing
 
-  - GitHub Education Partnership: [Sign up for 6 months of FREE Codédex Club](https://www.codedex.io/github-students) with a `.edu` email
+  - GitHub Education: [Sign up for 6 months of FREE Codédex Club](https://www.codedex.io/github-students) with a `.edu` email
   - Project Tutorial: [Run a Website Locally with HTML](https://www.codedex.io/projects/run-a-website-locally-with-html)
   - Project Tutorial: [Build an Album Finder with Spotify API](https://www.codedex.io/projects/build-an-album-finder-with-spotify-api) 
 
