@@ -29,11 +29,11 @@ Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Comma
 
 ## Our Team 🤗
 
-<a href="https://www.github.com/sonnynomnom" target="_blank" rel="noopener noreferrer"><img src="https://github.com/codedex-io/.github/assets/65576812/a8c9acf2-fd8e-485d-a3c3-4fd2fccaed4a" width="50px"></a>
-<img src="https://github.com/codedex-io/.github/assets/65576812/ccb47bcb-3e3c-4a7f-bc0e-2f843f87dbe7" width="50px">
-<img src="https://github.com/codedex-io/.github/assets/65576812/90a19cff-1693-457e-8ee2-52a85322e633" width="50px">
-<img src="https://github.com/codedex-io/.github/assets/65576812/17410e71-09bf-4813-9e8d-76a8b672ee17" width="50px">
-<img src="https://github.com/codedex-io/.github/assets/65576812/7f151b0b-2137-409c-adfc-764f5b00a491" width="50px">
+<a href="https://www.github.com/sonnynomnom"><img src="https://github.com/codedex-io/.github/assets/65576812/a8c9acf2-fd8e-485d-a3c3-4fd2fccaed4a" width="50px"></a>
+<a href="https://www.github.com/goku-kun"><img src="https://github.com/codedex-io/.github/assets/65576812/ccb47bcb-3e3c-4a7f-bc0e-2f843f87dbe7" width="50px"></a>
+<a href="https://www.github.com/asiqurrahman"><img src="https://github.com/codedex-io/.github/assets/65576812/90a19cff-1693-457e-8ee2-52a85322e633" width="50px"></a>
+<a href="https://www.github.com/dusch4593"><img src="https://github.com/codedex-io/.github/assets/65576812/17410e71-09bf-4813-9e8d-76a8b672ee17" width="50px"></a>
+<a href="https://www.github.com/lilybird1"><img src="https://github.com/codedex-io/.github/assets/65576812/7f151b0b-2137-409c-adfc-764f5b00a491" width="50px"></a>
 
 <br/>
 <br/>
