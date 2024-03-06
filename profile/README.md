@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codedex-io/.github/assets/65576812/6dd61b76-4149-4515-bb4c-495ed30ba712" width="280px">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/codedex-io/.github/assets/65576812/bad9de45-9136-4569-a2cd-b28365c32d51" width="280px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codedex-io/.github/assets/65576812/6dd61b76-4149-4515-bb4c-495ed30ba712" width="270px">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/codedex-io/.github/assets/65576812/bad9de45-9136-4569-a2cd-b28365c32d51" width="270px">
   <img alt="Codédex Logo" src="https://github.com/codedex-io/.github/assets/65576812/bad9de45-9136-4569-a2cd-b28365c32d51" width="400px">
 </picture>
 
@@ -25,8 +25,6 @@ Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Comma
   - Project Tutorial: [Run a Website Locally with HTML](https://www.codedex.io/projects/run-a-website-locally-with-html)
   - Project Tutorial: [Build an Album Finder with Spotify API](https://www.codedex.io/projects/build-an-album-finder-with-spotify-api) 
 
-<br/>
-
 ## Our Team 🤗
 
 <a href="https://www.github.com/sonnynomnom"><img src="https://github.com/codedex-io/.github/assets/65576812/a8c9acf2-fd8e-485d-a3c3-4fd2fccaed4a" width="50px"></a>
@@ -35,7 +33,6 @@ Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Comma
 <a href="https://www.github.com/dusch4593"><img src="https://github.com/codedex-io/.github/assets/65576812/17410e71-09bf-4813-9e8d-76a8b672ee17" width="50px"></a>
 <a href="https://www.github.com/lilybird1"><img src="https://github.com/codedex-io/.github/assets/65576812/7f151b0b-2137-409c-adfc-764f5b00a491" width="50px"></a>
 
-<br/>
 <br/>
 
 <p align="center">
