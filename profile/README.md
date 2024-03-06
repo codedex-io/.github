@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codedex-io/.github/assets/65576812/6dd61b76-4149-4515-bb4c-495ed30ba712" width="270px">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/codedex-io/.github/assets/65576812/bad9de45-9136-4569-a2cd-b28365c32d51" width="270px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codedex-io/.github/assets/65576812/6dd61b76-4149-4515-bb4c-495ed30ba712" width="250px">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/codedex-io/.github/assets/65576812/bad9de45-9136-4569-a2cd-b28365c32d51" width="250px">
   <img alt="Codédex Logo" src="https://github.com/codedex-io/.github/assets/65576812/bad9de45-9136-4569-a2cd-b28365c32d51" width="400px">
 </picture>
 
  
 </p>
 <h1>Codédex on GitHub</h1>
-  <img align=right src="https://github.com/codedex-io/.github/assets/65576812/c52c79df-d10d-412e-b0ef-ec0b969d2a5d" width="240px">
+  <img align=right src="https://github.com/codedex-io/.github/assets/65576812/c52c79df-d10d-412e-b0ef-ec0b969d2a5d" width="230px">
 Welcome to Codédex's GitHub! ⚡️ Codédex is the brand new way to learn to code for Gen Z.
 Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Command Line, earn experience points (XP) to unlock new regions, and collect all the badges at your own pace. 👩🏾‍💻👨🏻‍💻👩🏼‍💻
 
@@ -24,7 +24,8 @@ Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Comma
   - GitHub Education: [Sign up for 6 months of FREE Codédex Club](https://www.codedex.io/github-students)
   - Project Tutorial: [Run a Website Locally with HTML](https://www.codedex.io/projects/run-a-website-locally-with-html)
   - Project Tutorial: [Build an Album Finder with Spotify API](https://www.codedex.io/projects/build-an-album-finder-with-spotify-api) 
-
+<br />
+ 
 ## Our Team 🤗
 
 <a href="https://www.github.com/sonnynomnom"><img src="https://github.com/codedex-io/.github/assets/65576812/a8c9acf2-fd8e-485d-a3c3-4fd2fccaed4a" width="50px"></a>
