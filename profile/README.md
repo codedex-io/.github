@@ -42,4 +42,3 @@ Journey through the fantasy land of Python, HTML/CSS, JS, Git & GitHub, or Comma
 <img src="https://github.com/codedex-io/.github/assets/65576812/de1c5377-9d6d-409e-9971-887f8ef908c1" width="50px">
 </p>
 <p align="center">Made with ❤️ in Brooklyn, NY</p>
-
