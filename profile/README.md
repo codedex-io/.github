@@ -35,6 +35,7 @@ Journey through the fantasy land of Python, HTML/CSS, JS, React, SQL, Git & GitH
 <a href="https://github.com/exrlla"><img src="https://github.com/user-attachments/assets/85a2ee94-856a-4b0e-8948-4d0381e2908d" width="50px"></a>
 <a href="https://github.com/intelagense"><img src="https://github.com/codedex-io/.github/assets/65576812/20ff0f58-9142-4fec-93e7-13553c7d713f" width="50px"></a>
 <a href="https://www.instagram.com/naomixlee"><img src="https://github.com/codedex-io/.github/assets/65576812/f813fe10-612f-4a46-83de-a50c578d8400" width="50px"></a>
+<a href="https://github.com/jules-kris"><img src="https://github.com/user-attachments/assets/f43ffffe-487d-465d-9e28-b7c9a7725ac5" width="50px"></a>  
 </div>
 
 <br/>
