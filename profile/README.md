@@ -21,9 +21,9 @@ Journey through the fantasy land of Python, HTML/CSS, JS, React, SQL, Git & GitH
 
 ### Ongoing
 
-  - GitHub Education: [Sign up for 6 months of FREE Codédex Club](https://www.codedex.io/github-students)
   - Project Tutorial: [Run a Website Locally with HTML](https://www.codedex.io/projects/run-a-website-locally-with-html)
-  - Project Tutorial: [Build an Album Finder with Spotify API](https://www.codedex.io/projects/build-an-album-finder-with-spotify-api) 
+  - Project Tutorial: [Build an Album Finder with Spotify API](https://www.codedex.io/projects/build-an-album-finder-with-spotify-api)
+    
 <br />
  
 ## Our Team 🤗
